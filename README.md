@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **sidd-dev.netlify.app**
+- 📫 How to reach me **- sidd-dev.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
