@@ -15,4 +15,4 @@
 
 <h3 align="left">Leetcode Stats:</h3>
 
-![](https://leetcard.jacoblin.cool/sidd0894?ext=heatmap)
+![](https://leetcard.jacoblin.cool/sidd0894?border=0&radius=20)
